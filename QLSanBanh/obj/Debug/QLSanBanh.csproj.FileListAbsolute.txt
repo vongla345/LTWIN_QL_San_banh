@@ -1,0 +1,132 @@
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Form1.resources
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+E:\Workspace\Code\C#\Do_an_CK_Win\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Form1.resources
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\DELL\Downloads\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.datSan.resources
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\DELL\OneDrive\Máy tính\New folder\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Form1.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_datSan\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+D:\Workspace\Code\Lap_trinh_winform\Do_an_cuoi_ki\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmGiaiDau.resources
+C:\Users\ASUS\Downloads\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh_Fixed\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmTheThuc.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmGiaiDau.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmTheThuc.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+D:\Workspace\Code\C#\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmGiaiDau.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmTheThuc.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
