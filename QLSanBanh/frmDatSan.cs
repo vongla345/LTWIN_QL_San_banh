@@ -362,6 +362,11 @@ namespace QLSanBanh
 
         }
 
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void bt_quayVe_Click(object sender, EventArgs e)
         {
             this.Hide();

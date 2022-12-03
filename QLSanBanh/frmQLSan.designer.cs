@@ -33,6 +33,7 @@ namespace QuanLy_San
             this.label1 = new System.Windows.Forms.Label();
             this.lbl_tim_ma = new System.Windows.Forms.Label();
             this.grp_timkiem = new System.Windows.Forms.GroupBox();
+            this.btn_timKiem = new System.Windows.Forms.Button();
             this.txt_tim_ma = new System.Windows.Forms.TextBox();
             this.grp_thongtin = new System.Windows.Forms.GroupBox();
             this.txt_thongtin_giatien = new System.Windows.Forms.TextBox();
@@ -63,7 +64,6 @@ namespace QuanLy_San
             this.errorProvider4 = new System.Windows.Forms.ErrorProvider(this.components);
             this.errorProvider5 = new System.Windows.Forms.ErrorProvider(this.components);
             this.errorProvider6 = new System.Windows.Forms.ErrorProvider(this.components);
-            this.btn_timKiem = new System.Windows.Forms.Button();
             this.grp_timkiem.SuspendLayout();
             this.grp_thongtin.SuspendLayout();
             this.grp_chucnang.SuspendLayout();
@@ -78,8 +78,9 @@ namespace QuanLy_San
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Cambria", 31.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.MediumAquamarine;
+            this.label1.ForeColor = System.Drawing.Color.Honeydew;
             this.label1.Location = new System.Drawing.Point(396, 14);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(508, 63);
@@ -89,18 +90,23 @@ namespace QuanLy_San
             // lbl_tim_ma
             // 
             this.lbl_tim_ma.AutoSize = true;
+            this.lbl_tim_ma.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_tim_ma.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_tim_ma.ForeColor = System.Drawing.Color.White;
             this.lbl_tim_ma.Location = new System.Drawing.Point(61, 39);
             this.lbl_tim_ma.Name = "lbl_tim_ma";
-            this.lbl_tim_ma.Size = new System.Drawing.Size(75, 23);
+            this.lbl_tim_ma.Size = new System.Drawing.Size(80, 23);
             this.lbl_tim_ma.TabIndex = 1;
             this.lbl_tim_ma.Text = "Mã sân:";
             // 
             // grp_timkiem
             // 
+            this.grp_timkiem.BackColor = System.Drawing.Color.Transparent;
             this.grp_timkiem.Controls.Add(this.btn_timKiem);
             this.grp_timkiem.Controls.Add(this.txt_tim_ma);
             this.grp_timkiem.Controls.Add(this.lbl_tim_ma);
-            this.grp_timkiem.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_timkiem.Font = new System.Drawing.Font("Cambria", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_timkiem.ForeColor = System.Drawing.Color.White;
             this.grp_timkiem.Location = new System.Drawing.Point(33, 79);
             this.grp_timkiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grp_timkiem.Name = "grp_timkiem";
@@ -109,6 +115,18 @@ namespace QuanLy_San
             this.grp_timkiem.TabIndex = 2;
             this.grp_timkiem.TabStop = false;
             this.grp_timkiem.Text = "Tìm kiếm";
+            // 
+            // btn_timKiem
+            // 
+            this.btn_timKiem.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.btn_timKiem.ForeColor = System.Drawing.Color.White;
+            this.btn_timKiem.Location = new System.Drawing.Point(273, 71);
+            this.btn_timKiem.Name = "btn_timKiem";
+            this.btn_timKiem.Size = new System.Drawing.Size(137, 35);
+            this.btn_timKiem.TabIndex = 6;
+            this.btn_timKiem.Text = "Tìm kiếm";
+            this.btn_timKiem.UseVisualStyleBackColor = false;
+            this.btn_timKiem.Click += new System.EventHandler(this.btn_timKiem_Click);
             // 
             // txt_tim_ma
             // 
@@ -122,6 +140,7 @@ namespace QuanLy_San
             // 
             // grp_thongtin
             // 
+            this.grp_thongtin.BackColor = System.Drawing.Color.Transparent;
             this.grp_thongtin.Controls.Add(this.txt_thongtin_giatien);
             this.grp_thongtin.Controls.Add(this.txt_thongtin_ten);
             this.grp_thongtin.Controls.Add(this.cbbox_kichthuoc);
@@ -132,7 +151,8 @@ namespace QuanLy_San
             this.grp_thongtin.Controls.Add(this.lbl_thongtin_giatien);
             this.grp_thongtin.Controls.Add(this.txt_thongtin_ma);
             this.grp_thongtin.Controls.Add(this.lbl_thongtin_ma);
-            this.grp_thongtin.Font = new System.Drawing.Font("Cambria", 10.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_thongtin.Font = new System.Drawing.Font("Cambria", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_thongtin.ForeColor = System.Drawing.SystemColors.Control;
             this.grp_thongtin.Location = new System.Drawing.Point(33, 214);
             this.grp_thongtin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grp_thongtin.Name = "grp_thongtin";
@@ -168,7 +188,7 @@ namespace QuanLy_San
             this.cbbox_kichthuoc.Location = new System.Drawing.Point(273, 146);
             this.cbbox_kichthuoc.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbbox_kichthuoc.Name = "cbbox_kichthuoc";
-            this.cbbox_kichthuoc.Size = new System.Drawing.Size(172, 29);
+            this.cbbox_kichthuoc.Size = new System.Drawing.Size(172, 35);
             this.cbbox_kichthuoc.TabIndex = 11;
             this.cbbox_kichthuoc.Leave += new System.EventHandler(this.cbbox_kichthuoc_Leave);
             // 
@@ -178,43 +198,55 @@ namespace QuanLy_San
             this.cbbox_loai.Location = new System.Drawing.Point(23, 146);
             this.cbbox_loai.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbbox_loai.Name = "cbbox_loai";
-            this.cbbox_loai.Size = new System.Drawing.Size(172, 29);
+            this.cbbox_loai.Size = new System.Drawing.Size(172, 35);
             this.cbbox_loai.TabIndex = 10;
             this.cbbox_loai.Leave += new System.EventHandler(this.cbbox_loai_Leave);
             // 
             // lbl_thongtin_ten
             // 
             this.lbl_thongtin_ten.AutoSize = true;
+            this.lbl_thongtin_ten.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_thongtin_ten.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_thongtin_ten.ForeColor = System.Drawing.Color.White;
             this.lbl_thongtin_ten.Location = new System.Drawing.Point(268, 38);
             this.lbl_thongtin_ten.Name = "lbl_thongtin_ten";
-            this.lbl_thongtin_ten.Size = new System.Drawing.Size(76, 22);
+            this.lbl_thongtin_ten.Size = new System.Drawing.Size(87, 23);
             this.lbl_thongtin_ten.TabIndex = 9;
             this.lbl_thongtin_ten.Text = "Tên sân:";
             // 
             // lbl_thongtin_loai
             // 
             this.lbl_thongtin_loai.AutoSize = true;
+            this.lbl_thongtin_loai.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_thongtin_loai.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_thongtin_loai.ForeColor = System.Drawing.Color.White;
             this.lbl_thongtin_loai.Location = new System.Drawing.Point(19, 118);
             this.lbl_thongtin_loai.Name = "lbl_thongtin_loai";
-            this.lbl_thongtin_loai.Size = new System.Drawing.Size(81, 22);
+            this.lbl_thongtin_loai.Size = new System.Drawing.Size(91, 23);
             this.lbl_thongtin_loai.TabIndex = 8;
             this.lbl_thongtin_loai.Text = "Loại sân:";
             // 
             // lbl_thongtin_kichthuoc
             // 
             this.lbl_thongtin_kichthuoc.AutoSize = true;
+            this.lbl_thongtin_kichthuoc.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_thongtin_kichthuoc.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_thongtin_kichthuoc.ForeColor = System.Drawing.Color.White;
             this.lbl_thongtin_kichthuoc.Location = new System.Drawing.Point(268, 118);
             this.lbl_thongtin_kichthuoc.Name = "lbl_thongtin_kichthuoc";
-            this.lbl_thongtin_kichthuoc.Size = new System.Drawing.Size(101, 22);
+            this.lbl_thongtin_kichthuoc.Size = new System.Drawing.Size(117, 23);
             this.lbl_thongtin_kichthuoc.TabIndex = 7;
             this.lbl_thongtin_kichthuoc.Text = "Kích thước:";
             // 
             // lbl_thongtin_giatien
             // 
             this.lbl_thongtin_giatien.AutoSize = true;
+            this.lbl_thongtin_giatien.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_thongtin_giatien.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_thongtin_giatien.ForeColor = System.Drawing.Color.White;
             this.lbl_thongtin_giatien.Location = new System.Drawing.Point(19, 198);
             this.lbl_thongtin_giatien.Name = "lbl_thongtin_giatien";
-            this.lbl_thongtin_giatien.Size = new System.Drawing.Size(76, 22);
+            this.lbl_thongtin_giatien.Size = new System.Drawing.Size(86, 23);
             this.lbl_thongtin_giatien.TabIndex = 6;
             this.lbl_thongtin_giatien.Text = "Giá tiền:";
             // 
@@ -231,24 +263,29 @@ namespace QuanLy_San
             // lbl_thongtin_ma
             // 
             this.lbl_thongtin_ma.AutoSize = true;
+            this.lbl_thongtin_ma.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_thongtin_ma.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_thongtin_ma.ForeColor = System.Drawing.Color.White;
             this.lbl_thongtin_ma.Location = new System.Drawing.Point(19, 38);
             this.lbl_thongtin_ma.Name = "lbl_thongtin_ma";
-            this.lbl_thongtin_ma.Size = new System.Drawing.Size(72, 22);
+            this.lbl_thongtin_ma.Size = new System.Drawing.Size(80, 23);
             this.lbl_thongtin_ma.TabIndex = 1;
             this.lbl_thongtin_ma.Text = "Mã sân:";
             // 
             // grp_chucnang
             // 
+            this.grp_chucnang.BackColor = System.Drawing.Color.Transparent;
             this.grp_chucnang.Controls.Add(this.btn_dong);
             this.grp_chucnang.Controls.Add(this.btn_sua);
             this.grp_chucnang.Controls.Add(this.btn_xoa);
             this.grp_chucnang.Controls.Add(this.btn_them);
-            this.grp_chucnang.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_chucnang.Font = new System.Drawing.Font("Cambria", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grp_chucnang.ForeColor = System.Drawing.SystemColors.Control;
             this.grp_chucnang.Location = new System.Drawing.Point(33, 498);
             this.grp_chucnang.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grp_chucnang.Name = "grp_chucnang";
             this.grp_chucnang.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.grp_chucnang.Size = new System.Drawing.Size(475, 185);
+            this.grp_chucnang.Size = new System.Drawing.Size(475, 165);
             this.grp_chucnang.TabIndex = 6;
             this.grp_chucnang.TabStop = false;
             this.grp_chucnang.Text = "Chức năng";
@@ -256,6 +293,7 @@ namespace QuanLy_San
             // btn_dong
             // 
             this.btn_dong.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.btn_dong.ForeColor = System.Drawing.Color.White;
             this.btn_dong.Location = new System.Drawing.Point(273, 110);
             this.btn_dong.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_dong.Name = "btn_dong";
@@ -268,6 +306,7 @@ namespace QuanLy_San
             // btn_sua
             // 
             this.btn_sua.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.btn_sua.ForeColor = System.Drawing.Color.White;
             this.btn_sua.Location = new System.Drawing.Point(273, 46);
             this.btn_sua.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_sua.Name = "btn_sua";
@@ -280,6 +319,7 @@ namespace QuanLy_San
             // btn_xoa
             // 
             this.btn_xoa.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.btn_xoa.ForeColor = System.Drawing.Color.White;
             this.btn_xoa.Location = new System.Drawing.Point(23, 110);
             this.btn_xoa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_xoa.Name = "btn_xoa";
@@ -292,6 +332,7 @@ namespace QuanLy_San
             // btn_them
             // 
             this.btn_them.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.btn_them.ForeColor = System.Drawing.Color.White;
             this.btn_them.Location = new System.Drawing.Point(23, 46);
             this.btn_them.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_them.Name = "btn_them";
@@ -314,10 +355,10 @@ namespace QuanLy_San
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(596, 95);
+            this.listView1.Location = new System.Drawing.Point(580, 79);
             this.listView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(571, 528);
+            this.listView1.Size = new System.Drawing.Size(617, 571);
             this.listView1.TabIndex = 8;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -384,23 +425,13 @@ namespace QuanLy_San
             // 
             this.errorProvider6.ContainerControl = this;
             // 
-            // btn_timKiem
-            // 
-            this.btn_timKiem.BackColor = System.Drawing.Color.MediumAquamarine;
-            this.btn_timKiem.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btn_timKiem.Location = new System.Drawing.Point(273, 71);
-            this.btn_timKiem.Name = "btn_timKiem";
-            this.btn_timKiem.Size = new System.Drawing.Size(117, 35);
-            this.btn_timKiem.TabIndex = 6;
-            this.btn_timKiem.Text = "Tìm kiếm";
-            this.btn_timKiem.UseVisualStyleBackColor = false;
-            this.btn_timKiem.Click += new System.EventHandler(this.btn_timKiem_Click);
-            // 
             // frmQLSan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.BackgroundImage = global::QLSanBanh.Properties.Resources.background;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1255, 674);
             this.Controls.Add(this.bt_quayVe);
             this.Controls.Add(this.listView1);

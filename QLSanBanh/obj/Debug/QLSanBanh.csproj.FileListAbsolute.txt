@@ -130,3 +130,39 @@ C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\
 C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
 C:\Users\ASUS\Downloads\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmGiaiDau.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmTheThuc.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\thaig\Documents\Zalo Received Files\QLSanBanh_final\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe.config
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\bin\Debug\QLSanBanh.pdb
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmDatSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmGiaiDau.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmLogin.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmMenu.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmQLNhanVien.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QuanLy_San.frmQLSan.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmTheThuc.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.frmThongKe.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.exe
+C:\Users\ASUS\Downloads\QLSanBanh_final (1)\QLSanBanh_final\QLSanBanh\QLSanBanh\QLSanBanh\obj\Debug\QLSanBanh.pdb

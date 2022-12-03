@@ -133,6 +133,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.White;
             this.label6.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(229, 139);
             this.label6.Name = "label6";
@@ -298,7 +299,9 @@
             // label9
             // 
             this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.Font = new System.Drawing.Font("Cambria", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label9.Location = new System.Drawing.Point(391, 9);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(565, 70);
@@ -319,6 +322,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.groupBox1.Controls.Add(this.cb_admin);
             this.groupBox1.Controls.Add(this.dtp_ngaySinh);
             this.groupBox1.Controls.Add(this.btn_xoa);
@@ -339,7 +343,8 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Font = new System.Drawing.Font("Cambria", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.ForeColor = System.Drawing.Color.Black;
             this.groupBox1.Location = new System.Drawing.Point(964, 116);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
@@ -355,7 +360,7 @@
             this.cb_admin.Location = new System.Drawing.Point(24, 422);
             this.cb_admin.Margin = new System.Windows.Forms.Padding(4);
             this.cb_admin.Name = "cb_admin";
-            this.cb_admin.Size = new System.Drawing.Size(98, 27);
+            this.cb_admin.Size = new System.Drawing.Size(115, 31);
             this.cb_admin.TabIndex = 8;
             this.cb_admin.Text = "Quản Lí";
             this.cb_admin.UseVisualStyleBackColor = true;
@@ -481,6 +486,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::QLSanBanh.Properties.Resources.sanco;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1465, 750);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);

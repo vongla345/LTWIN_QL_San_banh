@@ -195,5 +195,44 @@
   <ItemGroup>
     <None Include="Resources\cup.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sanvandong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\model.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\san1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cup1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\san2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sanco.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

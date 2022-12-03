@@ -126,10 +126,10 @@
             // 
             this.bt_giaiDau.BackgroundImage = global::QLSanBanh.Properties.Resources.cup;
             this.bt_giaiDau.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bt_giaiDau.Location = new System.Drawing.Point(188, 256);
+            this.bt_giaiDau.Location = new System.Drawing.Point(206, 256);
             this.bt_giaiDau.Margin = new System.Windows.Forms.Padding(4);
             this.bt_giaiDau.Name = "bt_giaiDau";
-            this.bt_giaiDau.Size = new System.Drawing.Size(189, 106);
+            this.bt_giaiDau.Size = new System.Drawing.Size(158, 106);
             this.bt_giaiDau.TabIndex = 4;
             this.bt_giaiDau.UseVisualStyleBackColor = true;
             this.bt_giaiDau.Click += new System.EventHandler(this.bt_giaiDau_Click);
@@ -138,10 +138,10 @@
             // 
             this.bt_thoat.BackgroundImage = global::QLSanBanh.Properties.Resources.exit;
             this.bt_thoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bt_thoat.Location = new System.Drawing.Point(749, 256);
+            this.bt_thoat.Location = new System.Drawing.Point(773, 251);
             this.bt_thoat.Margin = new System.Windows.Forms.Padding(4);
             this.bt_thoat.Name = "bt_thoat";
-            this.bt_thoat.Size = new System.Drawing.Size(189, 106);
+            this.bt_thoat.Size = new System.Drawing.Size(148, 117);
             this.bt_thoat.TabIndex = 6;
             this.bt_thoat.UseVisualStyleBackColor = true;
             this.bt_thoat.Click += new System.EventHandler(this.bt_thoat_Click);
@@ -150,10 +150,10 @@
             // 
             this.bt_dangXuat.BackgroundImage = global::QLSanBanh.Properties.Resources.logout;
             this.bt_dangXuat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bt_dangXuat.Location = new System.Drawing.Point(468, 254);
+            this.bt_dangXuat.Location = new System.Drawing.Point(488, 254);
             this.bt_dangXuat.Margin = new System.Windows.Forms.Padding(4);
             this.bt_dangXuat.Name = "bt_dangXuat";
-            this.bt_dangXuat.Size = new System.Drawing.Size(189, 106);
+            this.bt_dangXuat.Size = new System.Drawing.Size(147, 106);
             this.bt_dangXuat.TabIndex = 5;
             this.bt_dangXuat.UseVisualStyleBackColor = true;
             this.bt_dangXuat.Click += new System.EventHandler(this.bt_dangXuat_Click);
@@ -221,7 +221,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1136, 507);
+            this.BackgroundImage = global::QLSanBanh.Properties.Resources.san2;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1092, 497);
             this.Controls.Add(this.lb);
             this.Controls.Add(this.bt_giaiDau);
             this.Controls.Add(this.lb_tk);

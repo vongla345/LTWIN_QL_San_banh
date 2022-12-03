@@ -106,6 +106,7 @@
             // btnExportExcel
             // 
             this.btnExportExcel.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExportExcel.ForeColor = System.Drawing.Color.Black;
             this.btnExportExcel.Location = new System.Drawing.Point(896, 48);
             this.btnExportExcel.Name = "btnExportExcel";
             this.btnExportExcel.Size = new System.Drawing.Size(154, 37);
@@ -129,6 +130,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::QLSanBanh.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(1080, 607);
             this.Controls.Add(this.bt_quayVe);
             this.Controls.Add(this.btnExportExcel);
